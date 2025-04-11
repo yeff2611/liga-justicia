@@ -2,4 +2,4 @@
 
 Este proyecto se encarga de manejar los planes de la liga de la justicia
 
-## Estos cambios son nuevos, se hacen de manera local
+## Estos cambios son nuevos, se hacen desde mi repo local
